@@ -1,298 +1,298 @@
 {
-  "keys": "/home/kasimye/webservice-br-egg/config/config.default.js",
-  "middleware": "/home/kasimye/webservice-br-egg/config/config.default.js",
+  "keys": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\config\\config.default.js",
+  "middleware": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\config\\config.default.js",
   "validate": {
-    "convert": "/home/kasimye/webservice-br-egg/config/config.default.js"
+    "convert": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\config\\config.default.js"
   },
   "session": {
-    "maxAge": "/home/kasimye/webservice-br-egg/node_modules/egg-session/config/config.default.js",
-    "key": "/home/kasimye/webservice-br-egg/node_modules/egg-session/config/config.default.js",
-    "httpOnly": "/home/kasimye/webservice-br-egg/node_modules/egg-session/config/config.default.js",
-    "encrypt": "/home/kasimye/webservice-br-egg/node_modules/egg-session/config/config.default.js"
+    "maxAge": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-session\\config\\config.default.js",
+    "key": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-session\\config\\config.default.js",
+    "httpOnly": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-session\\config\\config.default.js",
+    "encrypt": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-session\\config\\config.default.js"
   },
   "security": {
-    "domainWhiteList": "/home/kasimye/webservice-br-egg/node_modules/egg-security/config/config.default.js",
-    "protocolWhiteList": "/home/kasimye/webservice-br-egg/node_modules/egg-security/config/config.default.js",
-    "defaultMiddleware": "/home/kasimye/webservice-br-egg/node_modules/egg-security/config/config.default.js",
+    "domainWhiteList": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-security\\config\\config.default.js",
+    "protocolWhiteList": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-security\\config\\config.default.js",
+    "defaultMiddleware": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-security\\config\\config.default.js",
     "csrf": {
-      "enable": "/home/kasimye/webservice-br-egg/node_modules/egg-security/config/config.default.js",
-      "type": "/home/kasimye/webservice-br-egg/node_modules/egg-security/config/config.default.js",
-      "ignoreJSON": "/home/kasimye/webservice-br-egg/node_modules/egg-security/config/config.default.js",
-      "useSession": "/home/kasimye/webservice-br-egg/node_modules/egg-security/config/config.default.js",
-      "cookieName": "/home/kasimye/webservice-br-egg/node_modules/egg-security/config/config.default.js",
-      "sessionName": "/home/kasimye/webservice-br-egg/node_modules/egg-security/config/config.default.js",
-      "headerName": "/home/kasimye/webservice-br-egg/node_modules/egg-security/config/config.default.js",
-      "bodyName": "/home/kasimye/webservice-br-egg/node_modules/egg-security/config/config.default.js",
-      "queryName": "/home/kasimye/webservice-br-egg/node_modules/egg-security/config/config.default.js",
-      "refererWhiteList": "/home/kasimye/webservice-br-egg/node_modules/egg-security/config/config.default.js"
+      "enable": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "type": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "ignoreJSON": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "useSession": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "cookieName": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "sessionName": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "headerName": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "bodyName": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "queryName": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "refererWhiteList": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-security\\config\\config.default.js"
     },
     "xframe": {
-      "enable": "/home/kasimye/webservice-br-egg/node_modules/egg-security/config/config.default.js",
-      "value": "/home/kasimye/webservice-br-egg/node_modules/egg-security/config/config.default.js"
+      "enable": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-security\\config\\config.default.js"
     },
     "hsts": {
-      "enable": "/home/kasimye/webservice-br-egg/node_modules/egg-security/config/config.local.js",
-      "maxAge": "/home/kasimye/webservice-br-egg/node_modules/egg-security/config/config.default.js",
-      "includeSubdomains": "/home/kasimye/webservice-br-egg/node_modules/egg-security/config/config.default.js"
+      "enable": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-security\\config\\config.local.js",
+      "maxAge": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "includeSubdomains": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-security\\config\\config.default.js"
     },
     "dta": {
-      "enable": "/home/kasimye/webservice-br-egg/node_modules/egg-security/config/config.default.js"
+      "enable": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-security\\config\\config.default.js"
     },
     "methodnoallow": {
-      "enable": "/home/kasimye/webservice-br-egg/node_modules/egg-security/config/config.default.js"
+      "enable": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-security\\config\\config.default.js"
     },
     "noopen": {
-      "enable": "/home/kasimye/webservice-br-egg/node_modules/egg-security/config/config.default.js"
+      "enable": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-security\\config\\config.default.js"
     },
     "nosniff": {
-      "enable": "/home/kasimye/webservice-br-egg/node_modules/egg-security/config/config.default.js"
+      "enable": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-security\\config\\config.default.js"
     },
     "referrerPolicy": {
-      "enable": "/home/kasimye/webservice-br-egg/node_modules/egg-security/config/config.default.js",
-      "value": "/home/kasimye/webservice-br-egg/node_modules/egg-security/config/config.default.js"
+      "enable": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-security\\config\\config.default.js"
     },
     "xssProtection": {
-      "enable": "/home/kasimye/webservice-br-egg/node_modules/egg-security/config/config.default.js",
-      "value": "/home/kasimye/webservice-br-egg/node_modules/egg-security/config/config.default.js"
+      "enable": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "value": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-security\\config\\config.default.js"
     },
     "csp": {
-      "enable": "/home/kasimye/webservice-br-egg/node_modules/egg-security/config/config.default.js",
-      "policy": "/home/kasimye/webservice-br-egg/node_modules/egg-security/config/config.default.js"
+      "enable": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "policy": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-security\\config\\config.default.js"
     },
     "ssrf": {
-      "ipBlackList": "/home/kasimye/webservice-br-egg/node_modules/egg-security/config/config.default.js",
-      "checkAddress": "/home/kasimye/webservice-br-egg/node_modules/egg-security/config/config.default.js"
+      "ipBlackList": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-security\\config\\config.default.js",
+      "checkAddress": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-security\\config\\config.default.js"
     }
   },
   "helper": {
-    "shtml": "/home/kasimye/webservice-br-egg/node_modules/egg-security/config/config.default.js"
+    "shtml": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-security\\config\\config.default.js"
   },
   "jsonp": {
-    "limit": "/home/kasimye/webservice-br-egg/node_modules/egg-jsonp/config/config.default.js",
-    "callback": "/home/kasimye/webservice-br-egg/node_modules/egg-jsonp/config/config.default.js",
-    "csrf": "/home/kasimye/webservice-br-egg/node_modules/egg-jsonp/config/config.default.js"
+    "limit": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "callback": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-jsonp\\config\\config.default.js",
+    "csrf": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-jsonp\\config\\config.default.js"
   },
   "onerror": {
-    "errorPageUrl": "/home/kasimye/webservice-br-egg/node_modules/egg-onerror/config/config.default.js",
-    "appErrorFilter": "/home/kasimye/webservice-br-egg/node_modules/egg-onerror/config/config.default.js",
-    "templatePath": "/home/kasimye/webservice-br-egg/node_modules/egg-onerror/config/config.default.js"
+    "errorPageUrl": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-onerror\\config\\config.default.js",
+    "templatePath": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-onerror\\config\\config.default.js"
   },
   "i18n": {
-    "defaultLocale": "/home/kasimye/webservice-br-egg/node_modules/egg-i18n/config/config.default.js",
-    "dirs": "/home/kasimye/webservice-br-egg/node_modules/egg-i18n/config/config.default.js",
-    "queryField": "/home/kasimye/webservice-br-egg/node_modules/egg-i18n/config/config.default.js",
-    "cookieField": "/home/kasimye/webservice-br-egg/node_modules/egg-i18n/config/config.default.js",
-    "cookieDomain": "/home/kasimye/webservice-br-egg/node_modules/egg-i18n/config/config.default.js",
-    "cookieMaxAge": "/home/kasimye/webservice-br-egg/node_modules/egg-i18n/config/config.default.js"
+    "defaultLocale": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-i18n\\config\\config.default.js",
+    "dirs": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-i18n\\config\\config.default.js",
+    "queryField": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieField": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieDomain": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-i18n\\config\\config.default.js"
   },
   "watcher": {
-    "type": "/home/kasimye/webservice-br-egg/node_modules/egg-watcher/config/config.local.js",
+    "type": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-watcher\\config\\config.local.js",
     "eventSources": {
-      "default": "/home/kasimye/webservice-br-egg/node_modules/egg-watcher/config/config.default.js",
-      "development": "/home/kasimye/webservice-br-egg/node_modules/egg-watcher/config/config.default.js"
+      "default": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-watcher\\config\\config.default.js",
+      "development": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-watcher\\config\\config.default.js"
     }
   },
   "customLogger": {
     "scheduleLogger": {
-      "consoleLevel": "/home/kasimye/webservice-br-egg/node_modules/egg-schedule/config/config.default.js",
-      "file": "/home/kasimye/webservice-br-egg/node_modules/egg-schedule/config/config.default.js"
+      "consoleLevel": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-schedule\\config\\config.default.js",
+      "file": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-schedule\\config\\config.default.js"
     }
   },
   "schedule": {
-    "directory": "/home/kasimye/webservice-br-egg/node_modules/egg-schedule/config/config.default.js"
+    "directory": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-schedule\\config\\config.default.js"
   },
   "multipart": {
-    "mode": "/home/kasimye/webservice-br-egg/node_modules/egg-multipart/config/config.default.js",
-    "autoFields": "/home/kasimye/webservice-br-egg/node_modules/egg-multipart/config/config.default.js",
-    "defaultCharset": "/home/kasimye/webservice-br-egg/node_modules/egg-multipart/config/config.default.js",
-    "fieldNameSize": "/home/kasimye/webservice-br-egg/node_modules/egg-multipart/config/config.default.js",
-    "fieldSize": "/home/kasimye/webservice-br-egg/node_modules/egg-multipart/config/config.default.js",
-    "fields": "/home/kasimye/webservice-br-egg/node_modules/egg-multipart/config/config.default.js",
-    "fileSize": "/home/kasimye/webservice-br-egg/node_modules/egg-multipart/config/config.default.js",
-    "files": "/home/kasimye/webservice-br-egg/node_modules/egg-multipart/config/config.default.js",
-    "fileExtensions": "/home/kasimye/webservice-br-egg/node_modules/egg-multipart/config/config.default.js",
-    "whitelist": "/home/kasimye/webservice-br-egg/node_modules/egg-multipart/config/config.default.js",
-    "tmpdir": "/home/kasimye/webservice-br-egg/node_modules/egg-multipart/config/config.default.js",
+    "mode": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "autoFields": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "defaultCharset": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fieldSize": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fields": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileSize": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "files": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "fileExtensions": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "whitelist": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-multipart\\config\\config.default.js",
+    "tmpdir": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-multipart\\config\\config.default.js",
     "cleanSchedule": {
-      "cron": "/home/kasimye/webservice-br-egg/node_modules/egg-multipart/config/config.default.js"
+      "cron": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-multipart\\config\\config.default.js"
     }
   },
   "development": {
-    "watchDirs": "/home/kasimye/webservice-br-egg/node_modules/egg-development/config/config.default.js",
-    "ignoreDirs": "/home/kasimye/webservice-br-egg/node_modules/egg-development/config/config.default.js",
-    "fastReady": "/home/kasimye/webservice-br-egg/node_modules/egg-development/config/config.default.js",
-    "reloadOnDebug": "/home/kasimye/webservice-br-egg/node_modules/egg-development/config/config.default.js",
-    "overrideDefault": "/home/kasimye/webservice-br-egg/node_modules/egg-development/config/config.default.js"
+    "watchDirs": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-development\\config\\config.default.js",
+    "ignoreDirs": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-development\\config\\config.default.js",
+    "fastReady": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-development\\config\\config.default.js",
+    "reloadOnDebug": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-development\\config\\config.default.js",
+    "overrideDefault": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-development\\config\\config.default.js"
   },
   "logrotator": {
-    "filesRotateByHour": "/home/kasimye/webservice-br-egg/node_modules/egg-logrotator/config/config.default.js",
-    "hourDelimiter": "/home/kasimye/webservice-br-egg/node_modules/egg-logrotator/config/config.default.js",
-    "filesRotateBySize": "/home/kasimye/webservice-br-egg/node_modules/egg-logrotator/config/config.default.js",
-    "maxFileSize": "/home/kasimye/webservice-br-egg/node_modules/egg-logrotator/config/config.default.js",
-    "maxFiles": "/home/kasimye/webservice-br-egg/node_modules/egg-logrotator/config/config.default.js",
-    "rotateDuration": "/home/kasimye/webservice-br-egg/node_modules/egg-logrotator/config/config.default.js",
-    "maxDays": "/home/kasimye/webservice-br-egg/node_modules/egg-logrotator/config/config.default.js"
+    "filesRotateByHour": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxFiles": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-logrotator\\config\\config.default.js",
+    "maxDays": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-logrotator\\config\\config.default.js"
   },
   "static": {
-    "prefix": "/home/kasimye/webservice-br-egg/node_modules/egg-static/config/config.default.js",
-    "dir": "/home/kasimye/webservice-br-egg/node_modules/egg-static/config/config.default.js",
-    "dynamic": "/home/kasimye/webservice-br-egg/node_modules/egg-static/config/config.default.js",
-    "preload": "/home/kasimye/webservice-br-egg/node_modules/egg-static/config/config.default.js",
-    "buffer": "/home/kasimye/webservice-br-egg/node_modules/egg-static/config/config.default.js",
-    "maxFiles": "/home/kasimye/webservice-br-egg/node_modules/egg-static/config/config.default.js"
+    "prefix": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-static\\config\\config.default.js",
+    "dir": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-static\\config\\config.default.js",
+    "dynamic": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-static\\config\\config.default.js",
+    "preload": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-static\\config\\config.default.js",
+    "buffer": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-static\\config\\config.default.js",
+    "maxFiles": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-static\\config\\config.default.js"
   },
   "view": {
-    "root": "/home/kasimye/webservice-br-egg/node_modules/egg-view/config/config.default.js",
-    "cache": "/home/kasimye/webservice-br-egg/node_modules/egg-view/config/config.local.js",
-    "defaultExtension": "/home/kasimye/webservice-br-egg/node_modules/egg-view/config/config.default.js",
-    "defaultViewEngine": "/home/kasimye/webservice-br-egg/node_modules/egg-view/config/config.default.js",
-    "mapping": "/home/kasimye/webservice-br-egg/node_modules/egg-view/config/config.default.js"
+    "root": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-view\\config\\config.default.js",
+    "cache": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-view\\config\\config.local.js",
+    "defaultExtension": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-view\\config\\config.default.js",
+    "defaultViewEngine": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-view\\config\\config.default.js",
+    "mapping": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg-view\\config\\config.default.js"
   },
-  "env": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-  "name": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-  "cookies": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-  "proxy": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-  "maxIpsCount": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-  "maxProxyCount": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-  "protocolHeaders": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-  "ipHeaders": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-  "hostHeaders": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
+  "env": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+  "name": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+  "cookies": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+  "proxy": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+  "maxIpsCount": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+  "maxProxyCount": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+  "protocolHeaders": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+  "ipHeaders": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+  "hostHeaders": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
   "pkg": {
-    "name": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-    "version": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-    "description": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-    "private": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
+    "name": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+    "version": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+    "description": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+    "private": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
     "egg": {
-      "declarations": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js"
+      "declarations": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js"
     },
     "dependencies": {
-      "egg": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-      "egg-scripts": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-      "egg-validate": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-      "lodash": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js"
+      "egg": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+      "egg-scripts": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+      "egg-validate": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+      "lodash": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js"
     },
     "devDependencies": {
-      "autod": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-      "autod-egg": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-      "egg-bin": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-      "egg-ci": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-      "egg-mock": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-      "eslint": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-      "eslint-config-egg": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js"
+      "autod": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+      "autod-egg": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+      "egg-bin": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+      "egg-ci": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+      "egg-mock": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+      "eslint": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+      "eslint-config-egg": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js"
     },
     "engines": {
-      "node": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js"
+      "node": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js"
     },
     "scripts": {
-      "start": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-      "stop": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-      "dev": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-      "debug": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-      "test": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-      "test-local": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-      "cov": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-      "lint": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-      "ci": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-      "autod": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js"
+      "start": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+      "stop": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+      "dev": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+      "debug": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+      "test": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+      "test-local": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+      "cov": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+      "lint": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+      "ci": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+      "autod": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js"
     },
     "ci": {
-      "version": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js"
+      "version": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js"
     },
     "repository": {
-      "type": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-      "url": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js"
+      "type": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+      "url": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js"
     },
-    "author": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-    "license": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js"
+    "author": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+    "license": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js"
   },
-  "baseDir": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-  "HOME": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-  "rundir": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
+  "baseDir": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+  "HOME": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+  "rundir": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
   "dump": {
-    "ignore": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js"
+    "ignore": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js"
   },
   "confusedConfigurations": {
-    "bodyparser": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-    "notFound": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-    "sitefile": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-    "middlewares": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-    "httpClient": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js"
+    "bodyparser": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+    "notFound": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+    "sitefile": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+    "middlewares": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+    "httpClient": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js"
   },
   "notfound": {
-    "pageUrl": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js"
+    "pageUrl": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js"
   },
   "siteFile": {
-    "/favicon.ico": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js"
+    "/favicon.ico": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js"
   },
   "bodyParser": {
-    "enable": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-    "encoding": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-    "formLimit": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-    "jsonLimit": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-    "textLimit": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-    "strict": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
+    "enable": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+    "formLimit": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+    "jsonLimit": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+    "textLimit": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+    "strict": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
     "queryString": {
-      "arrayLimit": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-      "depth": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-      "parameterLimit": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js"
+      "arrayLimit": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+      "depth": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+      "parameterLimit": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js"
     },
-    "onerror": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js"
+    "onerror": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js"
   },
   "logger": {
-    "dir": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-    "encoding": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-    "env": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-    "level": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-    "consoleLevel": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-    "disableConsoleAfterReady": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-    "outputJSON": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-    "buffer": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-    "appLogName": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-    "coreLogName": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-    "agentLogName": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-    "errorLogName": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
+    "dir": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+    "encoding": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+    "env": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+    "level": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+    "consoleLevel": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+    "outputJSON": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+    "buffer": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+    "appLogName": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+    "coreLogName": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+    "agentLogName": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+    "errorLogName": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
     "coreLogger": {
-      "consoleLevel": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.local.js"
+      "consoleLevel": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.local.js"
     },
-    "allowDebugAtProd": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js"
+    "allowDebugAtProd": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js"
   },
   "httpclient": {
-    "enableDNSCache": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-    "dnsCacheLookupInterval": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-    "dnsCacheMaxLength": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
+    "enableDNSCache": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
     "request": {
-      "timeout": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js"
+      "timeout": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js"
     },
     "httpAgent": {
-      "keepAlive": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-      "freeSocketTimeout": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-      "maxSockets": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-      "maxFreeSockets": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js"
+      "keepAlive": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js"
     },
     "httpsAgent": {
-      "keepAlive": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-      "freeSocketTimeout": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-      "maxSockets": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-      "maxFreeSockets": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js"
+      "keepAlive": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+      "freeSocketTimeout": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+      "maxSockets": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+      "maxFreeSockets": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js"
     }
   },
   "meta": {
-    "enable": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-    "logging": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js"
+    "enable": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+    "logging": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js"
   },
-  "coreMiddleware": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-  "workerStartTimeout": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-  "serverTimeout": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
+  "coreMiddleware": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+  "workerStartTimeout": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+  "serverTimeout": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
   "cluster": {
     "listen": {
-      "path": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-      "port": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-      "hostname": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js"
+      "path": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+      "port": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+      "hostname": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js"
     }
   },
   "clusterClient": {
-    "maxWaitTime": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js",
-    "responseTimeout": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js"
+    "maxWaitTime": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js",
+    "responseTimeout": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js"
   },
-  "onClientError": "/home/kasimye/webservice-br-egg/node_modules/egg/config/config.default.js"
+  "onClientError": "D:\\KasimWorks\\nodejs\\webservice-br-egg\\node_modules\\egg\\config\\config.default.js"
 }

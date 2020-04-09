@@ -1,0 +1,3 @@
+2020-04-09 21:35:00,943 WARN 12108 A client (::ffff:127.0.0.1:62305) error [HPE_INVALID_METHOD] occurred: Parse Error: Invalid method encountered
+2020-04-09 21:35:38,817 WARN 12108 A client (::ffff:127.0.0.1:62313) error [HPE_INVALID_METHOD] occurred: Parse Error: Invalid method encountered
+2020-04-09 21:36:33,563 WARN 10620 A client (::ffff:127.0.0.1:62330) error [HPE_INVALID_METHOD] occurred: Parse Error: Invalid method encountered

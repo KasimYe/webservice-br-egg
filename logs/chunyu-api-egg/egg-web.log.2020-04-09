@@ -1,0 +1,227 @@
+2020-04-09 17:23:19,064 INFO 3338 [egg:logger] init all loggers with options: {"dir":"/home/kasimye/webservice-br-egg/logs/chunyu-api-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"chunyu-api-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-04-09 17:23:19,089 INFO 3338 [egg-multipart] stream mode enable
+2020-04-09 17:23:19,127 INFO 3338 [egg-static] starting static serve /public/ -> /home/kasimye/webservice-br-egg/app/public
+2020-04-09 17:23:19,129 INFO 3338 [egg-security] use csrf middleware
+2020-04-09 17:23:19,129 INFO 3338 [egg-security] use methodnoallow middleware
+2020-04-09 17:23:19,130 INFO 3338 [egg-security] use noopen middleware
+2020-04-09 17:23:19,130 INFO 3338 [egg-security] use nosniff middleware
+2020-04-09 17:23:19,131 INFO 3338 [egg-security] use xssProtection middleware
+2020-04-09 17:23:19,131 INFO 3338 [egg-security] use xframe middleware
+2020-04-09 17:23:19,131 INFO 3338 [egg-security] use dta middleware
+2020-04-09 17:23:19,131 INFO 3338 [egg-security] compose 7 middlewares into one security middleware
+2020-04-09 17:23:19,140 INFO 3338 [egg:core] dump config after load, 5ms
+2020-04-09 17:23:19,160 INFO 3338 [egg-watcher:application] watcher start success
+2020-04-09 17:23:19,176 INFO 3338 [egg:core] dump config after ready, 14ms
+2020-04-09 18:49:06,748 INFO 4631 [egg:logger] init all loggers with options: {"dir":"/home/kasimye/webservice-br-egg/logs/chunyu-api-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"chunyu-api-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-04-09 18:49:06,814 INFO 4631 [egg-multipart] stream mode enable
+2020-04-09 18:49:06,926 INFO 4631 [egg-static] starting static serve /public/ -> /home/kasimye/webservice-br-egg/app/public
+2020-04-09 18:49:06,931 INFO 4631 [egg-security] use csrf middleware
+2020-04-09 18:49:06,932 INFO 4631 [egg-security] use methodnoallow middleware
+2020-04-09 18:49:06,933 INFO 4631 [egg-security] use noopen middleware
+2020-04-09 18:49:06,933 INFO 4631 [egg-security] use nosniff middleware
+2020-04-09 18:49:06,934 INFO 4631 [egg-security] use xssProtection middleware
+2020-04-09 18:49:06,935 INFO 4631 [egg-security] use xframe middleware
+2020-04-09 18:49:06,935 INFO 4631 [egg-security] use dta middleware
+2020-04-09 18:49:06,935 INFO 4631 [egg-security] compose 7 middlewares into one security middleware
+2020-04-09 18:49:06,982 INFO 4631 [egg:core] dump config after load, 10ms
+2020-04-09 18:49:07,017 INFO 4631 [egg-watcher:application] watcher start success
+2020-04-09 18:49:07,041 INFO 4631 [egg:core] dump config after ready, 22ms
+2020-04-09 18:53:32,250 INFO 5122 [egg:logger] init all loggers with options: {"dir":"/home/kasimye/webservice-br-egg/logs/chunyu-api-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"chunyu-api-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-04-09 18:53:32,280 INFO 5122 [egg-multipart] stream mode enable
+2020-04-09 18:53:32,380 INFO 5122 [egg-static] starting static serve /public/ -> /home/kasimye/webservice-br-egg/app/public
+2020-04-09 18:53:32,384 INFO 5122 [egg-security] use csrf middleware
+2020-04-09 18:53:32,385 INFO 5122 [egg-security] use methodnoallow middleware
+2020-04-09 18:53:32,386 INFO 5122 [egg-security] use noopen middleware
+2020-04-09 18:53:32,387 INFO 5122 [egg-security] use nosniff middleware
+2020-04-09 18:53:32,388 INFO 5122 [egg-security] use xssProtection middleware
+2020-04-09 18:53:32,389 INFO 5122 [egg-security] use xframe middleware
+2020-04-09 18:53:32,389 INFO 5122 [egg-security] use dta middleware
+2020-04-09 18:53:32,390 INFO 5122 [egg-security] compose 7 middlewares into one security middleware
+2020-04-09 18:53:32,424 INFO 5122 [egg:core] dump config after load, 9ms
+2020-04-09 18:53:32,441 INFO 5122 [egg-watcher:application] watcher start success
+2020-04-09 18:53:32,490 INFO 5122 [egg:core] dump config after ready, 45ms
+2020-04-09 18:59:18,175 INFO 5227 [egg:logger] init all loggers with options: {"dir":"/home/kasimye/webservice-br-egg/logs/chunyu-api-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"chunyu-api-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-04-09 18:59:18,201 INFO 5227 [egg-multipart] stream mode enable
+2020-04-09 18:59:18,240 INFO 5227 [egg-static] starting static serve /public/ -> /home/kasimye/webservice-br-egg/app/public
+2020-04-09 18:59:18,242 INFO 5227 [egg-security] use csrf middleware
+2020-04-09 18:59:18,243 INFO 5227 [egg-security] use methodnoallow middleware
+2020-04-09 18:59:18,243 INFO 5227 [egg-security] use noopen middleware
+2020-04-09 18:59:18,244 INFO 5227 [egg-security] use nosniff middleware
+2020-04-09 18:59:18,244 INFO 5227 [egg-security] use xssProtection middleware
+2020-04-09 18:59:18,245 INFO 5227 [egg-security] use xframe middleware
+2020-04-09 18:59:18,245 INFO 5227 [egg-security] use dta middleware
+2020-04-09 18:59:18,245 INFO 5227 [egg-security] compose 7 middlewares into one security middleware
+2020-04-09 18:59:18,269 INFO 5227 [egg:core] dump config after load, 5ms
+2020-04-09 18:59:18,284 INFO 5227 [egg-watcher:application] watcher start success
+2020-04-09 18:59:18,303 INFO 5227 [egg:core] dump config after ready, 16ms
+2020-04-09 18:59:19,464 INFO 5238 [egg:logger] init all loggers with options: {"dir":"/home/kasimye/webservice-br-egg/logs/chunyu-api-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"chunyu-api-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-04-09 18:59:19,490 INFO 5238 [egg-multipart] stream mode enable
+2020-04-09 18:59:19,528 INFO 5238 [egg-static] starting static serve /public/ -> /home/kasimye/webservice-br-egg/app/public
+2020-04-09 18:59:19,531 INFO 5238 [egg-security] use csrf middleware
+2020-04-09 18:59:19,531 INFO 5238 [egg-security] use methodnoallow middleware
+2020-04-09 18:59:19,532 INFO 5238 [egg-security] use noopen middleware
+2020-04-09 18:59:19,532 INFO 5238 [egg-security] use nosniff middleware
+2020-04-09 18:59:19,533 INFO 5238 [egg-security] use xssProtection middleware
+2020-04-09 18:59:19,533 INFO 5238 [egg-security] use xframe middleware
+2020-04-09 18:59:19,534 INFO 5238 [egg-security] use dta middleware
+2020-04-09 18:59:19,534 INFO 5238 [egg-security] compose 7 middlewares into one security middleware
+2020-04-09 18:59:19,559 INFO 5238 [egg:core] dump config after load, 6ms
+2020-04-09 18:59:19,589 INFO 5238 [egg-watcher:application] watcher start success
+2020-04-09 18:59:19,615 INFO 5238 [egg:core] dump config after ready, 22ms
+2020-04-09 21:19:11,366 INFO 11456 [egg:logger] init all loggers with options: {"dir":"D:\\KasimWorks\\nodejs\\webservice-br-egg\\logs\\chunyu-api-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"chunyu-api-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-04-09 21:19:11,390 INFO 11456 [egg-multipart] stream mode enable
+2020-04-09 21:19:11,445 INFO 11456 [egg-static] starting static serve /public/ -> D:\KasimWorks\nodejs\webservice-br-egg\app\public
+2020-04-09 21:19:11,447 INFO 11456 [egg-security] use csrf middleware
+2020-04-09 21:19:11,448 INFO 11456 [egg-security] use methodnoallow middleware
+2020-04-09 21:19:11,448 INFO 11456 [egg-security] use noopen middleware
+2020-04-09 21:19:11,449 INFO 11456 [egg-security] use nosniff middleware
+2020-04-09 21:19:11,449 INFO 11456 [egg-security] use xssProtection middleware
+2020-04-09 21:19:11,450 INFO 11456 [egg-security] use xframe middleware
+2020-04-09 21:19:11,450 INFO 11456 [egg-security] use dta middleware
+2020-04-09 21:19:11,450 INFO 11456 [egg-security] compose 7 middlewares into one security middleware
+2020-04-09 21:19:11,473 INFO 11456 [egg:core] dump config after load, 4ms
+2020-04-09 21:19:11,483 INFO 11456 [egg-watcher:application] watcher start success
+2020-04-09 21:19:11,490 INFO 11456 [egg:core] dump config after ready, 5ms
+2020-04-09 21:21:48,786 INFO 1720 [egg:logger] init all loggers with options: {"dir":"D:\\KasimWorks\\nodejs\\webservice-br-egg\\logs\\chunyu-api-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"chunyu-api-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-04-09 21:21:48,811 INFO 1720 [egg-multipart] stream mode enable
+2020-04-09 21:21:48,876 INFO 1720 [egg-static] starting static serve /public/ -> D:\KasimWorks\nodejs\webservice-br-egg\app\public
+2020-04-09 21:21:48,881 INFO 1720 [egg-security] use csrf middleware
+2020-04-09 21:21:48,882 INFO 1720 [egg-security] use methodnoallow middleware
+2020-04-09 21:21:48,882 INFO 1720 [egg-security] use noopen middleware
+2020-04-09 21:21:48,883 INFO 1720 [egg-security] use nosniff middleware
+2020-04-09 21:21:48,884 INFO 1720 [egg-security] use xssProtection middleware
+2020-04-09 21:21:48,885 INFO 1720 [egg-security] use xframe middleware
+2020-04-09 21:21:48,886 INFO 1720 [egg-security] use dta middleware
+2020-04-09 21:21:48,886 INFO 1720 [egg-security] compose 7 middlewares into one security middleware
+2020-04-09 21:21:48,919 INFO 1720 [egg:core] dump config after load, 7ms
+2020-04-09 21:21:48,929 INFO 1720 [egg-watcher:application] watcher start success
+2020-04-09 21:21:48,938 INFO 1720 [egg:core] dump config after ready, 7ms
+2020-04-09 21:22:02,524 INFO 2888 [egg:logger] init all loggers with options: {"dir":"D:\\KasimWorks\\nodejs\\webservice-br-egg\\logs\\chunyu-api-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"chunyu-api-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-04-09 21:22:02,552 INFO 2888 [egg-multipart] stream mode enable
+2020-04-09 21:22:02,652 INFO 2888 [egg-static] starting static serve /public/ -> D:\KasimWorks\nodejs\webservice-br-egg\app\public
+2020-04-09 21:22:02,655 INFO 2888 [egg-security] use csrf middleware
+2020-04-09 21:22:02,657 INFO 2888 [egg-security] use methodnoallow middleware
+2020-04-09 21:22:02,657 INFO 2888 [egg-security] use noopen middleware
+2020-04-09 21:22:02,658 INFO 2888 [egg-security] use nosniff middleware
+2020-04-09 21:22:02,659 INFO 2888 [egg-security] use xssProtection middleware
+2020-04-09 21:22:02,659 INFO 2888 [egg-security] use xframe middleware
+2020-04-09 21:22:02,660 INFO 2888 [egg-security] use dta middleware
+2020-04-09 21:22:02,660 INFO 2888 [egg-security] compose 7 middlewares into one security middleware
+2020-04-09 21:22:02,686 INFO 2888 [egg:core] dump config after load, 5ms
+2020-04-09 21:22:02,696 INFO 2888 [egg-watcher:application] watcher start success
+2020-04-09 21:22:02,702 INFO 2888 [egg:core] dump config after ready, 5ms
+2020-04-09 21:22:29,355 INFO 12752 [egg:logger] init all loggers with options: {"dir":"D:\\KasimWorks\\nodejs\\webservice-br-egg\\logs\\chunyu-api-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"chunyu-api-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-04-09 21:22:29,380 INFO 12752 [egg-multipart] stream mode enable
+2020-04-09 21:22:29,451 INFO 12752 [egg-static] starting static serve /public/ -> D:\KasimWorks\nodejs\webservice-br-egg\app\public
+2020-04-09 21:22:29,454 INFO 12752 [egg-security] use csrf middleware
+2020-04-09 21:22:29,455 INFO 12752 [egg-security] use methodnoallow middleware
+2020-04-09 21:22:29,455 INFO 12752 [egg-security] use noopen middleware
+2020-04-09 21:22:29,456 INFO 12752 [egg-security] use nosniff middleware
+2020-04-09 21:22:29,456 INFO 12752 [egg-security] use xssProtection middleware
+2020-04-09 21:22:29,456 INFO 12752 [egg-security] use xframe middleware
+2020-04-09 21:22:29,457 INFO 12752 [egg-security] use dta middleware
+2020-04-09 21:22:29,457 INFO 12752 [egg-security] compose 7 middlewares into one security middleware
+2020-04-09 21:22:29,483 INFO 12752 [egg:core] dump config after load, 5ms
+2020-04-09 21:22:29,493 INFO 12752 [egg-watcher:application] watcher start success
+2020-04-09 21:22:29,499 INFO 12752 [egg:core] dump config after ready, 5ms
+2020-04-09 21:22:36,810 INFO 1148 [egg:logger] init all loggers with options: {"dir":"D:\\KasimWorks\\nodejs\\webservice-br-egg\\logs\\chunyu-api-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"chunyu-api-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-04-09 21:22:36,834 INFO 1148 [egg-multipart] stream mode enable
+2020-04-09 21:22:36,892 INFO 1148 [egg-static] starting static serve /public/ -> D:\KasimWorks\nodejs\webservice-br-egg\app\public
+2020-04-09 21:22:36,894 INFO 1148 [egg-security] use csrf middleware
+2020-04-09 21:22:36,895 INFO 1148 [egg-security] use methodnoallow middleware
+2020-04-09 21:22:36,895 INFO 1148 [egg-security] use noopen middleware
+2020-04-09 21:22:36,896 INFO 1148 [egg-security] use nosniff middleware
+2020-04-09 21:22:36,896 INFO 1148 [egg-security] use xssProtection middleware
+2020-04-09 21:22:36,897 INFO 1148 [egg-security] use xframe middleware
+2020-04-09 21:22:36,897 INFO 1148 [egg-security] use dta middleware
+2020-04-09 21:22:36,897 INFO 1148 [egg-security] compose 7 middlewares into one security middleware
+2020-04-09 21:22:36,920 INFO 1148 [egg:core] dump config after load, 4ms
+2020-04-09 21:22:36,929 INFO 1148 [egg-watcher:application] watcher start success
+2020-04-09 21:22:36,936 INFO 1148 [egg:core] dump config after ready, 5ms
+2020-04-09 21:23:50,340 INFO 12132 [egg:logger] init all loggers with options: {"dir":"D:\\KasimWorks\\nodejs\\webservice-br-egg\\logs\\chunyu-api-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"chunyu-api-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-04-09 21:23:50,372 INFO 12132 [egg-multipart] stream mode enable
+2020-04-09 21:23:50,447 INFO 12132 [egg-static] starting static serve /public/ -> D:\KasimWorks\nodejs\webservice-br-egg\app\public
+2020-04-09 21:23:50,450 INFO 12132 [egg-security] use csrf middleware
+2020-04-09 21:23:50,450 INFO 12132 [egg-security] use methodnoallow middleware
+2020-04-09 21:23:50,451 INFO 12132 [egg-security] use noopen middleware
+2020-04-09 21:23:50,451 INFO 12132 [egg-security] use nosniff middleware
+2020-04-09 21:23:50,452 INFO 12132 [egg-security] use xssProtection middleware
+2020-04-09 21:23:50,454 INFO 12132 [egg-security] use xframe middleware
+2020-04-09 21:23:50,455 INFO 12132 [egg-security] use dta middleware
+2020-04-09 21:23:50,455 INFO 12132 [egg-security] compose 7 middlewares into one security middleware
+2020-04-09 21:23:50,485 INFO 12132 [egg:core] dump config after load, 7ms
+2020-04-09 21:23:50,495 INFO 12132 [egg-watcher:application] watcher start success
+2020-04-09 21:23:50,503 INFO 12132 [egg:core] dump config after ready, 6ms
+2020-04-09 21:23:53,560 INFO 13040 [egg:logger] init all loggers with options: {"dir":"D:\\KasimWorks\\nodejs\\webservice-br-egg\\logs\\chunyu-api-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"chunyu-api-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-04-09 21:23:53,585 INFO 13040 [egg-multipart] stream mode enable
+2020-04-09 21:23:53,642 INFO 13040 [egg-static] starting static serve /public/ -> D:\KasimWorks\nodejs\webservice-br-egg\app\public
+2020-04-09 21:23:53,644 INFO 13040 [egg-security] use csrf middleware
+2020-04-09 21:23:53,645 INFO 13040 [egg-security] use methodnoallow middleware
+2020-04-09 21:23:53,645 INFO 13040 [egg-security] use noopen middleware
+2020-04-09 21:23:53,646 INFO 13040 [egg-security] use nosniff middleware
+2020-04-09 21:23:53,646 INFO 13040 [egg-security] use xssProtection middleware
+2020-04-09 21:23:53,647 INFO 13040 [egg-security] use xframe middleware
+2020-04-09 21:23:53,647 INFO 13040 [egg-security] use dta middleware
+2020-04-09 21:23:53,647 INFO 13040 [egg-security] compose 7 middlewares into one security middleware
+2020-04-09 21:23:53,670 INFO 13040 [egg:core] dump config after load, 4ms
+2020-04-09 21:23:53,679 INFO 13040 [egg-watcher:application] watcher start success
+2020-04-09 21:23:53,685 INFO 13040 [egg:core] dump config after ready, 5ms
+2020-04-09 21:24:15,333 INFO 12108 [egg:logger] init all loggers with options: {"dir":"D:\\KasimWorks\\nodejs\\webservice-br-egg\\logs\\chunyu-api-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"chunyu-api-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-04-09 21:24:15,357 INFO 12108 [egg-multipart] stream mode enable
+2020-04-09 21:24:15,422 INFO 12108 [egg-static] starting static serve /public/ -> D:\KasimWorks\nodejs\webservice-br-egg\app\public
+2020-04-09 21:24:15,425 INFO 12108 [egg-security] use csrf middleware
+2020-04-09 21:24:15,426 INFO 12108 [egg-security] use methodnoallow middleware
+2020-04-09 21:24:15,426 INFO 12108 [egg-security] use noopen middleware
+2020-04-09 21:24:15,427 INFO 12108 [egg-security] use nosniff middleware
+2020-04-09 21:24:15,428 INFO 12108 [egg-security] use xssProtection middleware
+2020-04-09 21:24:15,428 INFO 12108 [egg-security] use xframe middleware
+2020-04-09 21:24:15,429 INFO 12108 [egg-security] use dta middleware
+2020-04-09 21:24:15,429 INFO 12108 [egg-security] compose 7 middlewares into one security middleware
+2020-04-09 21:24:15,456 INFO 12108 [egg:core] dump config after load, 5ms
+2020-04-09 21:24:15,465 INFO 12108 [egg-watcher:application] watcher start success
+2020-04-09 21:24:15,472 INFO 12108 [egg:core] dump config after ready, 5ms
+2020-04-09 21:36:30,137 INFO 10620 [egg:logger] init all loggers with options: {"dir":"D:\\KasimWorks\\nodejs\\webservice-br-egg\\logs\\chunyu-api-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"chunyu-api-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-04-09 21:36:30,161 INFO 10620 [egg-multipart] stream mode enable
+2020-04-09 21:36:30,228 INFO 10620 [egg-static] starting static serve /public/ -> D:\KasimWorks\nodejs\webservice-br-egg\app\public
+2020-04-09 21:36:30,230 INFO 10620 [egg-security] use csrf middleware
+2020-04-09 21:36:30,231 INFO 10620 [egg-security] use methodnoallow middleware
+2020-04-09 21:36:30,231 INFO 10620 [egg-security] use noopen middleware
+2020-04-09 21:36:30,232 INFO 10620 [egg-security] use nosniff middleware
+2020-04-09 21:36:30,232 INFO 10620 [egg-security] use xssProtection middleware
+2020-04-09 21:36:30,232 INFO 10620 [egg-security] use xframe middleware
+2020-04-09 21:36:30,233 INFO 10620 [egg-security] use dta middleware
+2020-04-09 21:36:30,233 INFO 10620 [egg-security] compose 7 middlewares into one security middleware
+2020-04-09 21:36:30,254 INFO 10620 [egg:core] dump config after load, 4ms
+2020-04-09 21:36:30,265 INFO 10620 [egg-watcher:application] watcher start success
+2020-04-09 21:36:30,271 INFO 10620 [egg:core] dump config after ready, 5ms
+2020-04-09 21:41:27,579 INFO 6064 [egg:logger] init all loggers with options: {"dir":"D:\\KasimWorks\\nodejs\\webservice-br-egg\\logs\\chunyu-api-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"chunyu-api-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-04-09 21:41:27,621 INFO 6064 [egg-multipart] stream mode enable
+2020-04-09 21:41:27,730 INFO 6064 [egg-static] starting static serve /public/ -> D:\KasimWorks\nodejs\webservice-br-egg\app\public
+2020-04-09 21:41:27,733 INFO 6064 [egg-security] use csrf middleware
+2020-04-09 21:41:27,734 INFO 6064 [egg-security] use methodnoallow middleware
+2020-04-09 21:41:27,735 INFO 6064 [egg-security] use noopen middleware
+2020-04-09 21:41:27,735 INFO 6064 [egg-security] use nosniff middleware
+2020-04-09 21:41:27,736 INFO 6064 [egg-security] use xssProtection middleware
+2020-04-09 21:41:27,737 INFO 6064 [egg-security] use xframe middleware
+2020-04-09 21:41:27,737 INFO 6064 [egg-security] use dta middleware
+2020-04-09 21:41:27,737 INFO 6064 [egg-security] compose 7 middlewares into one security middleware
+2020-04-09 21:41:27,767 INFO 6064 [egg:core] dump config after load, 7ms
+2020-04-09 21:41:27,779 INFO 6064 [egg-watcher:application] watcher start success
+2020-04-09 21:41:27,794 INFO 6064 [egg:core] dump config after ready, 12ms
+2020-04-09 21:43:50,256 INFO 13248 [egg:logger] init all loggers with options: {"dir":"D:\\KasimWorks\\nodejs\\webservice-br-egg\\logs\\chunyu-api-egg","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"chunyu-api-egg-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2020-04-09 21:43:50,280 INFO 13248 [egg-multipart] stream mode enable
+2020-04-09 21:43:50,351 INFO 13248 [egg-static] starting static serve /public/ -> D:\KasimWorks\nodejs\webservice-br-egg\app\public
+2020-04-09 21:43:50,353 INFO 13248 [egg-security] use csrf middleware
+2020-04-09 21:43:50,354 INFO 13248 [egg-security] use methodnoallow middleware
+2020-04-09 21:43:50,355 INFO 13248 [egg-security] use noopen middleware
+2020-04-09 21:43:50,355 INFO 13248 [egg-security] use nosniff middleware
+2020-04-09 21:43:50,356 INFO 13248 [egg-security] use xssProtection middleware
+2020-04-09 21:43:50,357 INFO 13248 [egg-security] use xframe middleware
+2020-04-09 21:43:50,357 INFO 13248 [egg-security] use dta middleware
+2020-04-09 21:43:50,357 INFO 13248 [egg-security] compose 7 middlewares into one security middleware
+2020-04-09 21:43:50,381 INFO 13248 [egg:core] dump config after load, 5ms
+2020-04-09 21:43:50,389 INFO 13248 [egg-watcher:application] watcher start success
+2020-04-09 21:43:50,395 INFO 13248 [egg:core] dump config after ready, 5ms
+2020-04-10 00:00:00,029 INFO 13248 [egg-logrotator] clean all log before 31 days
+2020-04-10 00:00:01,422 INFO 13248 [egg-logrotator] broadcast log-reload
+2020-04-10 00:00:01,422 INFO 13248 [egg-logrotator] rotate files success by DayRotator, files ["D:\\KasimWorks\\nodejs\\webservice-br-egg\\logs\\chunyu-api-egg\\common-error.log -> D:\\KasimWorks\\nodejs\\webservice-br-egg\\logs\\chunyu-api-egg\\common-error.log.2020-04-09","D:\\KasimWorks\\nodejs\\webservice-br-egg\\logs\\chunyu-api-egg\\chunyu-api-egg-web.log -> D:\\KasimWorks\\nodejs\\webservice-br-egg\\logs\\chunyu-api-egg\\chunyu-api-egg-web.log.2020-04-09","D:\\KasimWorks\\nodejs\\webservice-br-egg\\logs\\chunyu-api-egg\\egg-web.log -> D:\\KasimWorks\\nodejs\\webservice-br-egg\\logs\\chunyu-api-egg\\egg-web.log.2020-04-09","D:\\KasimWorks\\nodejs\\webservice-br-egg\\logs\\chunyu-api-egg\\egg-schedule.log -> D:\\KasimWorks\\nodejs\\webservice-br-egg\\logs\\chunyu-api-egg\\egg-schedule.log.2020-04-09","D:\\KasimWorks\\nodejs\\webservice-br-egg\\logs\\chunyu-api-egg\\egg-agent.log -> D:\\KasimWorks\\nodejs\\webservice-br-egg\\logs\\chunyu-api-egg\\egg-agent.log.2020-04-09"]

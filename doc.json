@@ -1,0 +1,38 @@
+{
+  "method": "contract",
+  "data": {
+    "id": "1",
+    "supplier_id": "1001",
+    "supplier_name": "浙江康恩贝制药有限公司",
+    "system_date": "2020-04-09",
+    "sum_amount":1024.14,
+    "list":[{
+        "id":"1",
+        "product_id":"101",
+        "product_name":"葡萄糖酸锌口服液",
+        "mobile":"120ml",
+        "base_unit":"瓶",
+        "from_place":"浙江康恩贝制药有限公司",
+        "unit_rate":100,
+        "mid_unit_rate":20,
+        "pu_rate":0.16,
+        "number":5000,
+        "price":1.25,
+        "free_price":1.078
+    },
+    {
+        "id":"2",
+        "product_id":"102",
+        "product_name":"维生素C泡腾片",
+        "mobile":"80克(4克X12片)",
+        "base_unit":"盒",
+        "from_place":"浙江康恩贝制药有限公司",
+        "unit_rate":100,
+        "mid_unit_rate":20,
+        "pu_rate":0.16,
+        "number":5000,
+        "price":1.25,
+        "free_price":1.078
+    }]
+  }
+}

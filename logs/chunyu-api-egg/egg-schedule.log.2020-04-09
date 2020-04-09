@@ -1,0 +1,66 @@
+2020-04-09 17:23:19,088 INFO 3338 [egg-schedule]: register schedule /home/kasimye/webservice-br-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-04-09 17:23:19,088 INFO 3338 [egg-schedule]: register schedule /home/kasimye/webservice-br-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-04-09 17:23:19,088 INFO 3338 [egg-schedule]: register schedule /home/kasimye/webservice-br-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-04-09 17:23:19,183 INFO 3327 [Timer] /home/kasimye/webservice-br-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 40000820ms at 2020-04-10 04:30:00.003
+2020-04-09 17:23:19,183 INFO 3327 [Timer] /home/kasimye/webservice-br-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 23800817ms at 2020-04-10 00:00:00.000
+2020-04-09 17:23:19,184 INFO 3327 [Timer] /home/kasimye/webservice-br-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 23801817ms at 2020-04-10 00:00:01.000
+2020-04-09 18:49:07,059 INFO 4614 [Timer] /home/kasimye/webservice-br-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 34852949ms at 2020-04-10 04:30:00.008
+2020-04-09 18:49:07,059 INFO 4614 [Timer] /home/kasimye/webservice-br-egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 18652941ms at 2020-04-10 00:00:00.000
+2020-04-09 18:49:07,060 INFO 4614 [Timer] /home/kasimye/webservice-br-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 18653941ms at 2020-04-10 00:00:01.001
+2020-04-09 18:49:06,813 INFO 4631 [egg-schedule]: register schedule /home/kasimye/webservice-br-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-04-09 18:49:06,813 INFO 4631 [egg-schedule]: register schedule /home/kasimye/webservice-br-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-04-09 18:49:06,813 INFO 4631 [egg-schedule]: register schedule /home/kasimye/webservice-br-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-04-09 18:53:32,279 INFO 5122 [egg-schedule]: register schedule /home/kasimye/webservice-br-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-04-09 18:53:32,279 INFO 5122 [egg-schedule]: register schedule /home/kasimye/webservice-br-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-04-09 18:53:32,279 INFO 5122 [egg-schedule]: register schedule /home/kasimye/webservice-br-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-04-09 18:59:18,200 INFO 5227 [egg-schedule]: register schedule /home/kasimye/webservice-br-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-04-09 18:59:18,200 INFO 5227 [egg-schedule]: register schedule /home/kasimye/webservice-br-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-04-09 18:59:18,200 INFO 5227 [egg-schedule]: register schedule /home/kasimye/webservice-br-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-04-09 18:59:19,489 INFO 5238 [egg-schedule]: register schedule /home/kasimye/webservice-br-egg/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2020-04-09 18:59:19,489 INFO 5238 [egg-schedule]: register schedule /home/kasimye/webservice-br-egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2020-04-09 18:59:19,489 INFO 5238 [egg-schedule]: register schedule /home/kasimye/webservice-br-egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2020-04-09 21:19:11,389 INFO 11456 [egg-schedule]: register schedule D:\KasimWorks\nodejs\webservice-br-egg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-09 21:19:11,389 INFO 11456 [egg-schedule]: register schedule D:\KasimWorks\nodejs\webservice-br-egg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-09 21:19:11,389 INFO 11456 [egg-schedule]: register schedule D:\KasimWorks\nodejs\webservice-br-egg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-09 21:19:11,496 INFO 9392 [Timer] D:\KasimWorks\nodejs\webservice-br-egg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 25848506ms at 2020-04-10 04:30:00.002
+2020-04-09 21:19:11,496 INFO 9392 [Timer] D:\KasimWorks\nodejs\webservice-br-egg\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 9648504ms at 2020-04-10 00:00:00.000
+2020-04-09 21:19:11,497 INFO 9392 [Timer] D:\KasimWorks\nodejs\webservice-br-egg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 9649504ms at 2020-04-10 00:00:01.001
+2020-04-09 21:21:48,811 INFO 1720 [egg-schedule]: register schedule D:\KasimWorks\nodejs\webservice-br-egg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-09 21:21:48,811 INFO 1720 [egg-schedule]: register schedule D:\KasimWorks\nodejs\webservice-br-egg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-09 21:21:48,811 INFO 1720 [egg-schedule]: register schedule D:\KasimWorks\nodejs\webservice-br-egg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-09 21:22:02,551 INFO 2888 [egg-schedule]: register schedule D:\KasimWorks\nodejs\webservice-br-egg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-09 21:22:02,551 INFO 2888 [egg-schedule]: register schedule D:\KasimWorks\nodejs\webservice-br-egg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-09 21:22:02,551 INFO 2888 [egg-schedule]: register schedule D:\KasimWorks\nodejs\webservice-br-egg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-09 21:22:29,380 INFO 12752 [egg-schedule]: register schedule D:\KasimWorks\nodejs\webservice-br-egg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-09 21:22:29,380 INFO 12752 [egg-schedule]: register schedule D:\KasimWorks\nodejs\webservice-br-egg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-09 21:22:29,380 INFO 12752 [egg-schedule]: register schedule D:\KasimWorks\nodejs\webservice-br-egg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-09 21:22:36,834 INFO 1148 [egg-schedule]: register schedule D:\KasimWorks\nodejs\webservice-br-egg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-09 21:22:36,834 INFO 1148 [egg-schedule]: register schedule D:\KasimWorks\nodejs\webservice-br-egg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-09 21:22:36,834 INFO 1148 [egg-schedule]: register schedule D:\KasimWorks\nodejs\webservice-br-egg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-09 21:23:50,371 INFO 12132 [egg-schedule]: register schedule D:\KasimWorks\nodejs\webservice-br-egg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-09 21:23:50,371 INFO 12132 [egg-schedule]: register schedule D:\KasimWorks\nodejs\webservice-br-egg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-09 21:23:50,371 INFO 12132 [egg-schedule]: register schedule D:\KasimWorks\nodejs\webservice-br-egg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-09 21:23:53,584 INFO 13040 [egg-schedule]: register schedule D:\KasimWorks\nodejs\webservice-br-egg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-09 21:23:53,584 INFO 13040 [egg-schedule]: register schedule D:\KasimWorks\nodejs\webservice-br-egg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-09 21:23:53,584 INFO 13040 [egg-schedule]: register schedule D:\KasimWorks\nodejs\webservice-br-egg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-09 21:24:15,356 INFO 12108 [egg-schedule]: register schedule D:\KasimWorks\nodejs\webservice-br-egg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-09 21:24:15,356 INFO 12108 [egg-schedule]: register schedule D:\KasimWorks\nodejs\webservice-br-egg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-09 21:24:15,356 INFO 12108 [egg-schedule]: register schedule D:\KasimWorks\nodejs\webservice-br-egg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-09 21:36:30,160 INFO 10620 [egg-schedule]: register schedule D:\KasimWorks\nodejs\webservice-br-egg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-09 21:36:30,160 INFO 10620 [egg-schedule]: register schedule D:\KasimWorks\nodejs\webservice-br-egg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-09 21:36:30,160 INFO 10620 [egg-schedule]: register schedule D:\KasimWorks\nodejs\webservice-br-egg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-09 21:36:30,277 INFO 2128 [Timer] D:\KasimWorks\nodejs\webservice-br-egg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 24809726ms at 2020-04-10 04:30:00.003
+2020-04-09 21:36:30,277 INFO 2128 [Timer] D:\KasimWorks\nodejs\webservice-br-egg\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 8609723ms at 2020-04-10 00:00:00.000
+2020-04-09 21:36:30,277 INFO 2128 [Timer] D:\KasimWorks\nodejs\webservice-br-egg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 8610723ms at 2020-04-10 00:00:01.000
+2020-04-09 21:41:27,620 INFO 6064 [egg-schedule]: register schedule D:\KasimWorks\nodejs\webservice-br-egg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-09 21:41:27,620 INFO 6064 [egg-schedule]: register schedule D:\KasimWorks\nodejs\webservice-br-egg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-09 21:41:27,620 INFO 6064 [egg-schedule]: register schedule D:\KasimWorks\nodejs\webservice-br-egg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-09 21:43:50,279 INFO 13248 [egg-schedule]: register schedule D:\KasimWorks\nodejs\webservice-br-egg\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2020-04-09 21:43:50,279 INFO 13248 [egg-schedule]: register schedule D:\KasimWorks\nodejs\webservice-br-egg\node_modules\egg-logrotator\app\schedule\clean_log.js
+2020-04-09 21:43:50,279 INFO 13248 [egg-schedule]: register schedule D:\KasimWorks\nodejs\webservice-br-egg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2020-04-10 00:00:00,022 INFO 13248 [Job#1586448000008141017911386991] D:\KasimWorks\nodejs\webservice-br-egg\node_modules\egg-logrotator\app\schedule\clean_log.js executing by app
+2020-04-10 00:00:00,030 INFO 13248 [Job#1586448000008141017911386991] D:\KasimWorks\nodejs\webservice-br-egg\node_modules\egg-logrotator\app\schedule\clean_log.js execute succeed, used 7ms
+2020-04-10 00:00:00,022 INFO 2128 [Timer] D:\KasimWorks\nodejs\webservice-br-egg\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 86399984ms at 2020-04-11 00:00:00.006
+2020-04-10 00:00:01,003 INFO 2128 [Timer] D:\KasimWorks\nodejs\webservice-br-egg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 86399999ms at 2020-04-11 00:00:01.002
+2020-04-10 00:00:01,002 INFO 13248 [Job#1586448001001141027833388991] D:\KasimWorks\nodejs\webservice-br-egg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js executing by app
+2020-04-10 00:00:01,422 INFO 13248 [Job#1586448001001141027833388991] D:\KasimWorks\nodejs\webservice-br-egg\node_modules\egg-logrotator\app\schedule\rotate_by_file.js execute succeed, used 420ms
